@@ -50,8 +50,6 @@ CurrencyConvertor/
    ```
 4. Open the app in your browser at http://localhost:5173
 
-
-## ```markdown
 # Currency Converter
 
 A simple currency converter application built with React and Vite. This app allows users to convert amounts between different currencies using real-time exchange rates.
