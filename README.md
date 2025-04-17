@@ -129,10 +129,6 @@ This app uses the [Currency API](https://latest.currency-api.pages.dev/) to fetc
 3. Press `Enter` or click the "Convert" button to see the converted amount.
 4. Use the swap button to switch between "From" and "To" currencies.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - [Vite](https://vitejs.dev/)
