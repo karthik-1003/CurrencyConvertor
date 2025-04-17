@@ -10,8 +10,23 @@ A simple currency converter application built with React and Vite. This app allo
 - Responsive and user-friendly interface.
 
 ## Project Structure
-
-CurrencyConvertor/ ├── public/ # Static assets ├── src/ # Source code │ ├── assets/ # Images and icons │ ├── components/ # Reusable React components │ ├── hooks/ # Custom React hooks │ ├── App.jsx # Main application component │ ├── main.jsx # Entry point │ └── index.css # Global styles ├── .gitignore # Git ignore rules ├── eslint.config.js # ESLint configuration ├── index.html # HTML template ├── package.json # Project metadata and dependencies ├── README.md # Project documentation └── vite.config.js # Vite configuration
+```
+CurrencyConvertor/ 
+├── public/ # Static assets 
+├── src/ # Source code 
+│ ├── assets/ # Images and icons 
+│ ├── components/ # Reusable React components 
+│ ├── hooks/ # Custom React hooks 
+│ ├── App.jsx # Main application component 
+│ ├── main.jsx # Entry point 
+│ └── index.css # Global styles 
+├── .gitignore # Git ignore rules 
+├── eslint.config.js # ESLint configuration 
+├── index.html # HTML template 
+├── package.json # Project metadata and dependencies 
+├── README.md # Project documentation 
+└── vite.config.js # Vite configuration
+```
 
 ## Installation
 
